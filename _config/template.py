@@ -39,7 +39,7 @@ VOCAB_SOURCES = {
 }
 
 # BEGIN Vocabs list info
-VOCS_TITLE = "OGC Vocabularies"
-VOCS_URI = "http://www.opengis.net/def/"
-VOCS_DESC = "Vocabularies managed and published by the Open Geospatial Consortium"
+VOCS_TITLE = "DEMETER AIM"
+VOCS_URI = "https://w3id.org/demeter/agri/agriCrop"
+VOCS_DESC = "Agriculture Information Model managed on behalf of DEMETER project"
 # END Vocabs list info
