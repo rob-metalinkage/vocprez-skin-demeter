@@ -15,7 +15,7 @@ MAX_RETRIES = 2
 RETRY_SLEEP_SECONDS = 10
 SPARQL_TIMEOUT = 60
 LOCAL_URLS = True  # Parameter governing whether URLs shown are local or external
-
+LOCAL_ALTS = False  # Parameter governing whether URLs for Alternates view are local (limited to vocprez) or global (using resource URI)
 
 class VocabSource:
     SPARQL = "SPARQL"
